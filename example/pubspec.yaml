@@ -1,0 +1,17 @@
+name: puzzle_button_group_example
+description: Example project to demonstrate the usage of the PuzzleButtonGroup package
+publish_to: none # Prevent publishing this example to pub.dev
+version: 0.0.1
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  puzzle_button_group:
+    path: ../ # Points to the parent directory (your package)
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
