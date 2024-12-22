@@ -1,7 +1,7 @@
 name: puzzle_button_group
 description: "A package for creating a group of puzzle buttons."
 version: 0.1.0
-author: "Saeed Areffard"
+homepage: "https://github.com/Saeedareffard/puzzle_button_group.git"
 
 environment:
   sdk: ^3.5.4
